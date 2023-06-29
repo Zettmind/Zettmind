@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zettmind
-- 👀 I’m interested in Code and Video edeting
-- 🌱 I’m currently learning HTML, CSS, Javascript und ReactJS.
+- 👋 Hi, I’m @Zettmind aka David!
+- 👀 I’m interested in Code and Chalestenics!
+- 🌱 I’m currently learning HTML, CSS, C and Javascript.
 - 📫 How to reach me: email: dickkdavid@gmail.com
 
 <!---
